@@ -9,14 +9,6 @@
   <title>Document</title>
  </head>
  <body>
-  <?php
-  $conn=mysqli_connect("localhost","root","","d56");
-  if($conn){
-  echo "Connect Sussecc";
-  }else{
   
-  echo "Errer connect";
-  }
-  ?>
  </body>
 </html>
